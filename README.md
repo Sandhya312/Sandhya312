@@ -65,10 +65,11 @@ char Developer = {
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya312&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
-<!--
 
-<h2>My Contribution Graph</h2>
-<img   src="/assests/sandhya.svg#gh-dark-mode-only" class="img-fluid" alt="Sandhya">
 
-<h3 align="left">Connect with me:</h3>
---!>
+<h2>My Contribution Graph 💹 </h2>
+
+<p align="center">
+  <img src="https://github.com/sandhya312/sandhya312/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
