@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, Welcome to my GitHub Profile</h1> 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya312&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya312" /> </p>
-<!--
-<img   src="/assests/Games.gif" class="img-fluid" alt="Sandhya"> -->
+
+
+<img   src="/assests/Games.gif" class="img-fluid" alt="Sandhya"> 
 <h1></h1>
 <h2 align="center">About Me</h2>
 
@@ -58,13 +58,15 @@ char Developer = {
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=sandhya312&theme=redical">
-</p> 
-
-<p align = "center">
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya312&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
+
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sandhya312&theme=redical">
+</p> 
+
 
 
 <h2>My Contribution Graph 💹 </h2>
