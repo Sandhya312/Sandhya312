@@ -6,7 +6,7 @@
 <h2 align="center">About Me</h2>
 
 ```js
-char Developer = {
+const Developer = {
 	name: 'Sandhya Kumari',
 	country: 'India',
 	isCoding: 'true',
