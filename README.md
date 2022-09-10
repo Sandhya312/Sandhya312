@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, Welcome to my GitHub Profile</h1> 
 
-
 <img   src="/assests/Games.gif" class="img-fluid" alt="Sandhya"> 
 <h1></h1>
 <h2 align="center">About Me</h2>
